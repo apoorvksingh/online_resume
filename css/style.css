@@ -45,7 +45,7 @@ h2
 {
   font-weight: bold;
   font-size: 24px;
-  color: #999;
+  color: #EEEEEE;
   line-height: 29px;
   padding: 10px;
 }
@@ -146,13 +146,28 @@ a
 
 .dark-gray
 {
-  background-color: #4a4a4a;
+  background-color: #5b5b5b;
 }
 
 /* TODO: Replace with image later */
 #header
 {
-  background-color: #484848;
+  background-color: #11b;
+}
+
+#header h1
+{
+  color: #EEE;
+}
+
+#header-role {
+  color: #EEE;
+  display: block;
+}
+
+.blue {
+  background-color: #11b;
+  color: #DDD;
 }
 
 .flex-box
